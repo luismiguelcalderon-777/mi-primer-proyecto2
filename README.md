@@ -1,0 +1,1 @@
+Hola, mi nombre es Luis Miguel Calderón Giraldo, en este momento estoy estudiando el programa, o al menos una introducción a GitHub, y en este apartado realizo el punto 20 del taller sobre este mismo programa,
